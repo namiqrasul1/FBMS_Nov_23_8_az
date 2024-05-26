@@ -42,3 +42,49 @@ using Lesson4StructClass;
 ////st.Name = "Kamil";
 //Console.WriteLine(st.Name);
 //Console.WriteLine(st.GetAge());
+
+//Counter counter = new(0, 100);
+//counter.Increment();
+//Console.WriteLine(counter.Current);
+//counter.Increment();
+//Console.WriteLine(counter.Current);
+
+//Some obj = new() { Id = 42, Any = 12 };
+//Console.WriteLine(obj.Id);
+
+
+//Some o = obj.Clone();
+//o.Str = "Matata";
+
+//Console.WriteLine(obj.Str);
+
+//string str = "h";
+
+//string s = str;
+//s = "k";
+//Console.WriteLine(str);
+//Console.WriteLine(s);
+
+//str[0] = '[';
+
+//int[] arr = [1,2,3];
+//int[] a = arr;
+//a[1] = 42;
+
+//foreach (var item in arr)
+//{
+//    Console.Write($"{item} ");
+//}
+//Console.WriteLine();
+//Console.WriteLine();
+//foreach (var item in a)
+//{
+//    Console.Write($"{item} ");
+//}
+
+//Car.MyProperty = 1;
+//Console.WriteLine("s");
+//Car car = new(1999, "nissan", "skyline R34");
+
+//car.Show();
+//Car.Foo();
