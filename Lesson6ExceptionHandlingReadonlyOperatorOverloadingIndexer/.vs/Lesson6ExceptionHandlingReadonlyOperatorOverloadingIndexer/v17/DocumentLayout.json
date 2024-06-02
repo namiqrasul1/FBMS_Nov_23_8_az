@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89353A7C-E117-4E0D-B8F3-42218B3D4C6E}|Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89353A7C-E117-4E0D-B8F3-42218B3D4C6E}|Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer.csproj|solutionrelative:lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89353A7C-E117-4E0D-B8F3-42218B3D4C6E}|Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\models\\someclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89353A7C-E117-4E0D-B8F3-42218B3D4C6E}|Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer.csproj|solutionrelative:lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\models\\someclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89353A7C-E117-4E0D-B8F3-42218B3D4C6E}|Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\models\\int.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89353A7C-E117-4E0D-B8F3-42218B3D4C6E}|Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer.csproj|solutionrelative:lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\models\\int.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89353A7C-E117-4E0D-B8F3-42218B3D4C6E}|Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\models\\derived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89353A7C-E117-4E0D-B8F3-42218B3D4C6E}|Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer.csproj|solutionrelative:lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\models\\derived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89353A7C-E117-4E0D-B8F3-42218B3D4C6E}|Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\models\\basederived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89353A7C-E117-4E0D-B8F3-42218B3D4C6E}|Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer.csproj|solutionrelative:lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\models\\basederived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89353A7C-E117-4E0D-B8F3-42218B3D4C6E}|Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89353A7C-E117-4E0D-B8F3-42218B3D4C6E}|Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer.csproj|solutionrelative:lesson6exceptionhandlingreadonlyoperatoroverloadingindexer\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SomeClass.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\SomeClass.cs",
+              "RelativeDocumentMoniker": "Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\SomeClass.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\SomeClass.cs",
+              "RelativeToolTip": "Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\SomeClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:12:19.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Int.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\Int.cs",
+              "RelativeDocumentMoniker": "Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\Int.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\Int.cs",
+              "RelativeToolTip": "Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\Int.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:59:45.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Derived.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\Derived.cs",
+              "RelativeDocumentMoniker": "Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\Derived.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\Derived.cs",
+              "RelativeToolTip": "Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\Derived.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:24:24.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseDerived.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\BaseDerived.cs",
+              "RelativeDocumentMoniker": "Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\BaseDerived.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\BaseDerived.cs",
+              "RelativeToolTip": "Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\BaseDerived.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:22:50.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\Base.cs",
+              "RelativeDocumentMoniker": "Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\Base.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\Base.cs",
+              "RelativeToolTip": "Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Models\\Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:19:56.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Program.cs",
+              "RelativeToolTip": "Lesson6ExceptionHandlingReadonlyOperatorOverloadingIndexer\\Program.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAuwKEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:14:51.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
