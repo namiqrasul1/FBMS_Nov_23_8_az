@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson8Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB44C07-BFD2-409B-A833-B309474A6C45}|Lesson8Delegates\\Lesson8Delegates.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\lesson8delegates\\lesson8delegates\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB44C07-BFD2-409B-A833-B309474A6C45}|Lesson8Delegates\\Lesson8Delegates.csproj|solutionrelative:lesson8delegates\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB44C07-BFD2-409B-A833-B309474A6C45}|Lesson8Delegates\\Lesson8Delegates.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\lesson8delegates\\lesson8delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB44C07-BFD2-409B-A833-B309474A6C45}|Lesson8Delegates\\Lesson8Delegates.csproj|solutionrelative:lesson8delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB44C07-BFD2-409B-A833-B309474A6C45}|Lesson8Delegates\\Lesson8Delegates.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\lesson8delegates\\lesson8delegates\\someclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB44C07-BFD2-409B-A833-B309474A6C45}|Lesson8Delegates\\Lesson8Delegates.csproj|solutionrelative:lesson8delegates\\someclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SomeClass.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson8Delegates\\Lesson8Delegates\\SomeClass.cs",
+              "RelativeDocumentMoniker": "Lesson8Delegates\\SomeClass.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson8Delegates\\Lesson8Delegates\\SomeClass.cs",
+              "RelativeToolTip": "Lesson8Delegates\\SomeClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:06:54.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson8Delegates\\Lesson8Delegates\\Class.cs",
+              "RelativeDocumentMoniker": "Lesson8Delegates\\Class.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson8Delegates\\Lesson8Delegates\\Class.cs",
+              "RelativeToolTip": "Lesson8Delegates\\Class.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwFEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:53:39.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson8Delegates\\Lesson8Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson8Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson8Delegates\\Lesson8Delegates\\Program.cs",
+              "RelativeToolTip": "Lesson8Delegates\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:12:42.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
