@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson10LinqMethodsRecord", "Lesson10LinqMethodsRecord\Lesson10LinqMethodsRecord.csproj", "{DBC5306D-5CC3-47D8-A58B-1AA7375DB6BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC5306D-5CC3-47D8-A58B-1AA7375DB6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC5306D-5CC3-47D8-A58B-1AA7375DB6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC5306D-5CC3-47D8-A58B-1AA7375DB6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC5306D-5CC3-47D8-A58B-1AA7375DB6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED1810F8-FFA2-4444-8A7E-EACD61005A96}
+	EndGlobalSection
+EndGlobal
