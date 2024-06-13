@@ -98,7 +98,7 @@ class Program1
 
 
 
-    static void Main()
+    static void Main1()
     {
 
         //        2) rhyta.com ve ya dayrep.com domenlerinde emaili olan borclulari cixartmag
@@ -108,6 +108,7 @@ class Program1
 
         //    3) Yashi 26 - dan 36 - ya qeder olan borclulari cixartmag
 
+        //var result = debtors.Where(d => d.BirthDay.Year )
 
         //    4) Borcu 5000 - den cox olmayan borclularic cixartmag
 
