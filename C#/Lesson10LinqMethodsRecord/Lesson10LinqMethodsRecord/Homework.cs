@@ -18,6 +18,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Channels;
+using System.Transactions;
 
 class Debtor
 {
@@ -101,6 +102,10 @@ class Program1
     static void Main1()
     {
 
+
+        var r = debtors.Where(d => d.Phone.Count(c => c == '7') > 1).ToList();
+        Console.WriteLine();
+
         //        2) rhyta.com ve ya dayrep.com domenlerinde emaili olan borclulari cixartmag
 
         //var result = debtors.Where(d => d.Email.EndsWith("rhyta.com") || d.Email.EndsWith("dayrep.com")).ToList();
@@ -127,6 +132,11 @@ class Program1
 
         //    11)Adinda ve familyasinda hec olmasa 3 eyni herf olan borclularin siyahisin cixarmaq ve onlari elifba sirasina gore sortirovka elemek
 
+        //var result = debtors.Where(d =>
+        //{
+
+        //}))
+
 
         //    13)borclulardan en coxu hansi ilde dogulubsa hemin ili cixartmaq
 
@@ -147,5 +157,9 @@ class Program1
 
 
         //    20)Adindaki ve familyasindaki herflerden "smile" sozunu yaza bileceyimiz borclularin siyahisini cixartmaq
+
+        var result = debtors.Where(d => d.FullName.Contains<char>('s') && d.FullName.Contains<char>('m') && d.FullName.Contains<char>('i') && d.FullName.Contains<char>('l') && d.FullName.Contains<char>('e'));
+
+        
     }
 }

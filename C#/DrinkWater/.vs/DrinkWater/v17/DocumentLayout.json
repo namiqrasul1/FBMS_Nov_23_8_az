@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\DrinkWater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89CA55-1ED8-40A5-8517-593A7D797D7E}|DrinkWater\\DrinkWater.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\drinkwater\\drinkwater\\services\\controlpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89CA55-1ED8-40A5-8517-593A7D797D7E}|DrinkWater\\DrinkWater.csproj|solutionrelative:drinkwater\\services\\controlpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89CA55-1ED8-40A5-8517-593A7D797D7E}|DrinkWater\\DrinkWater.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\drinkwater\\drinkwater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89CA55-1ED8-40A5-8517-593A7D797D7E}|DrinkWater\\DrinkWater.csproj|solutionrelative:drinkwater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89CA55-1ED8-40A5-8517-593A7D797D7E}|DrinkWater\\DrinkWater.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\drinkwater\\drinkwater\\models\\historyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89CA55-1ED8-40A5-8517-593A7D797D7E}|DrinkWater\\DrinkWater.csproj|solutionrelative:drinkwater\\models\\historyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89CA55-1ED8-40A5-8517-593A7D797D7E}|DrinkWater\\DrinkWater.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\drinkwater\\drinkwater\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89CA55-1ED8-40A5-8517-593A7D797D7E}|DrinkWater\\DrinkWater.csproj|solutionrelative:drinkwater\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlPanel.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\DrinkWater\\DrinkWater\\Services\\ControlPanel.cs",
+              "RelativeDocumentMoniker": "DrinkWater\\Services\\ControlPanel.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\DrinkWater\\DrinkWater\\Services\\ControlPanel.cs",
+              "RelativeToolTip": "DrinkWater\\Services\\ControlPanel.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwEIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:27:26.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\DrinkWater\\DrinkWater\\Models\\HistoryItem.cs",
+              "RelativeDocumentMoniker": "DrinkWater\\Models\\HistoryItem.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\DrinkWater\\DrinkWater\\Models\\HistoryItem.cs",
+              "RelativeToolTip": "DrinkWater\\Models\\HistoryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:21:18.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\DrinkWater\\DrinkWater\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DrinkWater\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\DrinkWater\\DrinkWater\\Models\\User.cs",
+              "RelativeToolTip": "DrinkWater\\Models\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:16:15.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\DrinkWater\\DrinkWater\\Program.cs",
+              "RelativeDocumentMoniker": "DrinkWater\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\DrinkWater\\DrinkWater\\Program.cs",
+              "RelativeToolTip": "DrinkWater\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T05:11:43.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

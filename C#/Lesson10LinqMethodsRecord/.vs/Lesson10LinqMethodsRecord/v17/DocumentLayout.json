@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson10LinqMethodsRecord\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBC5306D-5CC3-47D8-A58B-1AA7375DB6BF}|Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\lesson10linqmethodsrecord\\lesson10linqmethodsrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBC5306D-5CC3-47D8-A58B-1AA7375DB6BF}|Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord.csproj|solutionrelative:lesson10linqmethodsrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DBC5306D-5CC3-47D8-A58B-1AA7375DB6BF}|Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\lesson10linqmethodsrecord\\lesson10linqmethodsrecord\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBC5306D-5CC3-47D8-A58B-1AA7375DB6BF}|Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord.csproj|solutionrelative:lesson10linqmethodsrecord\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC5306D-5CC3-47D8-A58B-1AA7375DB6BF}|Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\lesson10linqmethodsrecord\\lesson10linqmethodsrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC5306D-5CC3-47D8-A58B-1AA7375DB6BF}|Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord.csproj|solutionrelative:lesson10linqmethodsrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord\\Program.cs",
               "RelativeDocumentMoniker": "Lesson10LinqMethodsRecord\\Program.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord\\Program.cs",
               "RelativeToolTip": "Lesson10LinqMethodsRecord\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAACUAAAAeAAAA",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAIQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T05:10:16.087Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Homework.cs",
               "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord\\Homework.cs",
               "RelativeDocumentMoniker": "Lesson10LinqMethodsRecord\\Homework.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord\\Homework.cs",
               "RelativeToolTip": "Lesson10LinqMethodsRecord\\Homework.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAUwGIAAAAAAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAUwGoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T07:51:13.318Z",
               "EditorCaption": ""
