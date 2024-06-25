@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord\\Program.cs",
-              "RelativeDocumentMoniker": "Lesson10LinqMethodsRecord\\Program.cs",
-              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord\\Program.cs",
-              "RelativeToolTip": "Lesson10LinqMethodsRecord\\Program.cs",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAAAIQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T05:10:16.087Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "Lesson10LinqMethodsRecord\\Homework.cs",
               "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord\\Homework.cs",
               "RelativeToolTip": "Lesson10LinqMethodsRecord\\Homework.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAUwGoAAAAaAAAA",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAI4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T07:51:13.318Z",
+              "WhenOpened": "2024-06-25T05:20:01.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson10LinqMethodsRecord\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson10LinqMethodsRecord\\Lesson10LinqMethodsRecord\\Program.cs",
+              "RelativeToolTip": "Lesson10LinqMethodsRecord\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAHsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:19:47.266Z",
               "EditorCaption": ""
             }
           ]

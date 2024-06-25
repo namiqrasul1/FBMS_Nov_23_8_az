@@ -3,22 +3,22 @@ using Lesson10LinqMethodsRecord.Students;
 
 
 
-var students = new List<Student>()
-{
-    new Student { Name = "Ali", Surname = "Mustafayev", DateOfBirth = new DateOnly(2009, 06, 20) },
-    new Student { Name = "Tahir", Surname = "Aliyev", DateOfBirth = new DateOnly(2001, 08, 01) },
-    new Student { Name = "Seltenet", Surname = "Suleymanli", DateOfBirth = new DateOnly(2004, 01, 31) },
-    new Student { Name = "Abdulla", Surname = "Babayev", DateOfBirth = new DateOnly(2005, 02, 07) },
-    new Student { Name = "Arzum", Surname = "Hasanzade", DateOfBirth = new DateOnly(2009, 10, 01) },
-    new Student { Name = "Asgar", Surname = "Abbasli", DateOfBirth = new DateOnly(2008, 06, 22) },
-    new Student { Name = "Ismayil", Surname = "Bagirov", DateOfBirth = new DateOnly(2008, 03, 15) },
-};
+//var students = new List<Student>()
+//{
+//    new Student { Name = "Ali", Surname = "Mustafayev", DateOfBirth = new DateOnly(2009, 06, 20) },
+//    new Student { Name = "Tahir", Surname = "Aliyev", DateOfBirth = new DateOnly(2001, 08, 01) },
+//    new Student { Name = "Seltenet", Surname = "Suleymanli", DateOfBirth = new DateOnly(2004, 01, 31) },
+//    new Student { Name = "Abdulla", Surname = "Babayev", DateOfBirth = new DateOnly(2005, 02, 07) },
+//    new Student { Name = "Arzum", Surname = "Hasanzade", DateOfBirth = new DateOnly(2009, 10, 01) },
+//    new Student { Name = "Asgar", Surname = "Abbasli", DateOfBirth = new DateOnly(2008, 06, 22) },
+//    new Student { Name = "Ismayil", Surname = "Bagirov", DateOfBirth = new DateOnly(2008, 03, 15) },
+//};
 
-// 18 yashdan yuxari telebelerin butun adini siralanmish shekilde goturmeliyik
-var result = students.Where(st => DateTime.Now.Year - st.DateOfBirth.Year > 17)
-                    .Select(st => $"{st.Name} {st.Surname}")
-                    .Order()
-                    .ToList();
+//// 18 yashdan yuxari telebelerin butun adini siralanmish shekilde goturmeliyik
+//var result = students.Where(st => DateTime.Now.Year - st.DateOfBirth.Year > 17)
+//                    .Select(st => $"{st.Name} {st.Surname}")
+//                    .Order()
+//                    .ToList();
 
 
 
@@ -121,7 +121,7 @@ var result = students.Where(st => DateTime.Now.Year - st.DateOfBirth.Year > 17)
 
 
 
-
+Program1.Main1();
 
 
 

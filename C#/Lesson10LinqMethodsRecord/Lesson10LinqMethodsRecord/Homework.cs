@@ -94,12 +94,13 @@ class Program1
             new Debtor("James E. Denning", DateTime.Parse("May 4, 1988"), "504-289-8640", "JamesEDenning@jourrapide.com", "1444 Rose Avenue Metairie, LA 70001", 8176),
             new Debtor("Richard M. Thomas", DateTime.Parse("February 13, 1972"), "510-735-3359", "RichardMThomas@jourrapide.com", "4454 Green Avenue Oakland, CA 94609", 7875),
             new Debtor("Lakisha R. Forrest", DateTime.Parse("December 1, 1973"), "334-830-1181", "LakishaRForrest@armyspy.com", "3121 Quarry Drive Montgomery, AL 36117", 3088),
-            new Debtor("Pamela H. Beauchamp", DateTime.Parse("November 20, 1959"), "801-559-6347", "PamelaHBeauchamp@jourrapide.com", "3239 Tori Lane Salt Lake City, UT 84104", 6588)
+            new Debtor("Pamela H. Beauchamp", DateTime.Parse("November 20, 1959"), "801-559-6347", "PamelaHBeauchamp@jourrapide.com", "3239 Tori Lane Salt Lake City, UT 84104", 6588),
+            new Debtor("asdfgh", DateTime.Parse("November 20, 1959"), "801-559-6347", "PamelaHBeauchamp@jourrapide.com", "3239 Tori Lane Salt Lake City, UT 84104", 6588)
         };
 
 
 
-    static void Main1()
+    public static void Main1()
     {
 
 
@@ -124,7 +125,7 @@ class Program1
         //    7) Qishda anadan olan borclulari cixardmaq
 
 
-        //    8) Borcu, umumi borclarin orta borcunnan cox olan borclulari cixarmaq ve evvel familyaya gore sonra ise meblegin azalmagina gore sortirovka etmek
+        //    8) Borcu, umumi borclularin orta borcundan cox olan borclulari cixarmaq ve evvel familyaya gore sonra ise meblegin azalmagina gore sortirovka etmek
 
 
         //    9) Telefon nomresinde 8 olmayan borclularin yalniz familyasin, yashin ve umumi borcun meblegin cixarmaq
@@ -132,6 +133,14 @@ class Program1
 
         //    11)Adinda ve familyasinda hec olmasa 3 eyni herf olan borclularin siyahisin cixarmaq ve onlari elifba sirasina gore sortirovka elemek
 
+        //var result = debtors.Where(d => d.FullName.GroupBy(c => c).Count(g => g.) > 3).ToList();
+        //debtors.Any(d => d.)
+        //result.ForEach(d => Console.WriteLine(d));
+        //Console.WriteLine("********************");
+        //debtors.ForEach(d => Console.WriteLine(d));
+
+        //var result = debtors.Average(d => d.Debt);
+        //Console.WriteLine(result);
         //var result = debtors.Where(d =>
         //{
 
@@ -153,13 +162,16 @@ class Program1
         //    18)Nomresinde tekrar reqemler olmayan borclularin ve onlarin borcunun meblegin cixartmaq
 
 
+
+
+
         //    19)Tesevvur edek ki,butun borclari olanlar bugunden etibaren her ay 500 azn pul odeyecekler.Oz ad gunune kimi borcun oduyub qurtara bilenlerin siyahisin cixartmaq
 
 
         //    20)Adindaki ve familyasindaki herflerden "smile" sozunu yaza bileceyimiz borclularin siyahisini cixartmaq
 
-        var result = debtors.Where(d => d.FullName.Contains<char>('s') && d.FullName.Contains<char>('m') && d.FullName.Contains<char>('i') && d.FullName.Contains<char>('l') && d.FullName.Contains<char>('e'));
+        //var result = debtors.Where(d => d.FullName.Contains<char>('s') && d.FullName.Contains<char>('m') && d.FullName.Contains<char>('i') && d.FullName.Contains<char>('l') && d.FullName.Contains<char>('e'));
 
-        
+
     }
 }
