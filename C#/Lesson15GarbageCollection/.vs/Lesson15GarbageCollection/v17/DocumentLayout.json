@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson15GarbageCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B454E9-3D40-4652-A823-421BC55C0B6F}|Lesson15GarbageCollection\\Lesson15GarbageCollection.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\lesson15garbagecollection\\lesson15garbagecollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B454E9-3D40-4652-A823-421BC55C0B6F}|Lesson15GarbageCollection\\Lesson15GarbageCollection.csproj|solutionrelative:lesson15garbagecollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson15GarbageCollection\\Lesson15GarbageCollection\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson15GarbageCollection\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson15GarbageCollection\\Lesson15GarbageCollection\\Program.cs",
+              "RelativeToolTip": "Lesson15GarbageCollection\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:29:22.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
