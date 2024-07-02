@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EE6FA7-2BD6-44F8-B791-2EA3C26D69FD}|Lesson16RegexLog\\Lesson16RegexLog.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\lesson16regexlog\\lesson16regexlog\\openclosedprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EE6FA7-2BD6-44F8-B791-2EA3C26D69FD}|Lesson16RegexLog\\Lesson16RegexLog.csproj|solutionrelative:lesson16regexlog\\openclosedprinciple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EE6FA7-2BD6-44F8-B791-2EA3C26D69FD}|Lesson16RegexLog\\Lesson16RegexLog.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\lesson16regexlog\\lesson16regexlog\\dependencyinversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EE6FA7-2BD6-44F8-B791-2EA3C26D69FD}|Lesson16RegexLog\\Lesson16RegexLog.csproj|solutionrelative:lesson16regexlog\\dependencyinversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EE6FA7-2BD6-44F8-B791-2EA3C26D69FD}|Lesson16RegexLog\\Lesson16RegexLog.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\lesson16regexlog\\lesson16regexlog\\interfacesegregation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EE6FA7-2BD6-44F8-B791-2EA3C26D69FD}|Lesson16RegexLog\\Lesson16RegexLog.csproj|solutionrelative:lesson16regexlog\\interfacesegregation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EE6FA7-2BD6-44F8-B791-2EA3C26D69FD}|Lesson16RegexLog\\Lesson16RegexLog.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\lesson16regexlog\\lesson16regexlog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EE6FA7-2BD6-44F8-B791-2EA3C26D69FD}|Lesson16RegexLog\\Lesson16RegexLog.csproj|solutionrelative:lesson16regexlog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\bin\\Debug\\net8.0\\myapp.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson16RegexLog\\bin\\Debug\\net8.0\\myapp.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EE6FA7-2BD6-44F8-B791-2EA3C26D69FD}|Lesson16RegexLog\\Lesson16RegexLog.csproj|c:\\users\\namiqrasullu\\desktop\\fbms_nov_23_8_az\\c#\\lesson16regexlog\\lesson16regexlog\\lesson16regexlog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2EE6FA7-2BD6-44F8-B791-2EA3C26D69FD}|Lesson16RegexLog\\Lesson16RegexLog.csproj|solutionrelative:lesson16regexlog\\lesson16regexlog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\bin\\Debug\\net8.0\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson16RegexLog\\bin\\Debug\\net8.0\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInversion.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\DependencyInversion.cs",
+              "RelativeDocumentMoniker": "Lesson16RegexLog\\DependencyInversion.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\DependencyInversion.cs",
+              "RelativeToolTip": "Lesson16RegexLog\\DependencyInversion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T07:06:32.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterfaceSegregation.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\InterfaceSegregation.cs",
+              "RelativeDocumentMoniker": "Lesson16RegexLog\\InterfaceSegregation.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\InterfaceSegregation.cs",
+              "RelativeToolTip": "Lesson16RegexLog\\InterfaceSegregation.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswBgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T07:03:17.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenClosedPrinciple.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\OpenClosedPrinciple.cs",
+              "RelativeDocumentMoniker": "Lesson16RegexLog\\OpenClosedPrinciple.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\OpenClosedPrinciple.cs",
+              "RelativeToolTip": "Lesson16RegexLog\\OpenClosedPrinciple.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:39:21.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "myapp.log",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\bin\\Debug\\net8.0\\myapp.log",
+              "RelativeDocumentMoniker": "Lesson16RegexLog\\bin\\Debug\\net8.0\\myapp.log",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\bin\\Debug\\net8.0\\myapp.log",
+              "RelativeToolTip": "Lesson16RegexLog\\bin\\Debug\\net8.0\\myapp.log",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-02T06:09:07.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lesson16RegexLog",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\Lesson16RegexLog.csproj",
+              "RelativeDocumentMoniker": "Lesson16RegexLog\\Lesson16RegexLog.csproj",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\Lesson16RegexLog.csproj",
+              "RelativeToolTip": "Lesson16RegexLog\\Lesson16RegexLog.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T06:00:20.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.log",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\bin\\Debug\\net8.0\\app.log",
+              "RelativeDocumentMoniker": "Lesson16RegexLog\\bin\\Debug\\net8.0\\app.log",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\bin\\Debug\\net8.0\\app.log",
+              "RelativeToolTip": "Lesson16RegexLog\\bin\\Debug\\net8.0\\app.log",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-02T05:36:00.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson16RegexLog\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBMS_Nov_23_8_az\\C#\\Lesson16RegexLog\\Lesson16RegexLog\\Program.cs",
+              "RelativeToolTip": "Lesson16RegexLog\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:15:22.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
