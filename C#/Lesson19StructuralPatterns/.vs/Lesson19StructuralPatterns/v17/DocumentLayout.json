@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson19StructuralPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{022FF7CA-2DE7-4FDA-A30C-2A639454B8C6}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson19structuralpatterns\\proxypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022FF7CA-2DE7-4FDA-A30C-2A639454B8C6}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022FF7CA-2DE7-4FDA-A30C-2A639454B8C6}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson19structuralpatterns\\proxypattern\\bankaccountproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022FF7CA-2DE7-4FDA-A30C-2A639454B8C6}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\bankaccountproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022FF7CA-2DE7-4FDA-A30C-2A639454B8C6}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson19structuralpatterns\\proxypattern\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022FF7CA-2DE7-4FDA-A30C-2A639454B8C6}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022FF7CA-2DE7-4FDA-A30C-2A639454B8C6}|ProxyPattern\\ProxyPattern.csproj|c:\\users\\namiqrasullu\\source\\repos\\lesson19structuralpatterns\\proxypattern\\ibankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022FF7CA-2DE7-4FDA-A30C-2A639454B8C6}|ProxyPattern\\ProxyPattern.csproj|solutionrelative:proxypattern\\ibankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountProxy.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson19StructuralPatterns\\ProxyPattern\\BankAccountProxy.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\BankAccountProxy.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson19StructuralPatterns\\ProxyPattern\\BankAccountProxy.cs",
+              "RelativeToolTip": "ProxyPattern\\BankAccountProxy.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:13:48.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson19StructuralPatterns\\ProxyPattern\\BankAccount.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson19StructuralPatterns\\ProxyPattern\\BankAccount.cs",
+              "RelativeToolTip": "ProxyPattern\\BankAccount.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:10:29.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson19StructuralPatterns\\ProxyPattern\\IBankAccount.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\IBankAccount.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson19StructuralPatterns\\ProxyPattern\\IBankAccount.cs",
+              "RelativeToolTip": "ProxyPattern\\IBankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:09:49.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson19StructuralPatterns\\ProxyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ProxyPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\source\\repos\\Lesson19StructuralPatterns\\ProxyPattern\\Program.cs",
+              "RelativeToolTip": "ProxyPattern\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:56:00.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
